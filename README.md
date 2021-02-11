@@ -14,5 +14,6 @@ I am **HFDrae** and I am a student in Computer Science in France !
 - SQL
 - JavaScript
 - Android Dev
+- Linux (Ubuntu, Debian, Fedora, MX Linux, Garuda, Arch)
 
-I am also a member of the [https://github.com/Camiraz]Camiraz Organization !
+I am also a member of the [https://github.com/Camiraz](Camiraz) Organization !
