@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there
+I am **HFDrae** and I am a student in Computer Science in France !
 
 <!--
-**HFDrae/HFDrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HFDrae/HFDrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+###I’m currently planning to work on :
+- a RogueLike made in Kotlin !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I have learnt about :
+- Java
+- C
+- Kotlin
+- SQL
+- JavaScript
+- Android Dev
+
+I am also a member of the [https://github.com/Camiraz]Camiraz Organization !
