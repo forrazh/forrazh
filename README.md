@@ -1,6 +1,10 @@
 ## Hi there
 I am **HFDrae** and I am a student in Computer Science in France !
 
+### I'm currently working on :
+- an Android implementation of the Jisho Website in Kotlin.  
+- a Discord Bot in Kotlin.  
+
 ### I’m currently planning to work on :
 - a WebSite speaking about me, myself and I made in React JS.
 - a Monster Hunter Rise armor set generator probably in Java with a full Interface and a data base. -> Maybe make it an Android app ?
