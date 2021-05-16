@@ -15,8 +15,10 @@ I am **HFDrae** and I am a student in Computer Science in France !
 - C
 - Kotlin
 - SQL
-- Vanilla JavaScript
-- Android Dev
+- Vanilla JavaScript and WebDev
+- Android Dev (Kotlin / Java)
 - Linux (Ubuntu, Debian, Fedora, MX Linux, Garuda, Arch)
 
 I am also a member of the [Camiraz](https://github.com/Camiraz) Organization !
+
+If you need to reach to me, you can contact me using Discord ( @Dra#5092 ) or by e-mail ( bakugo.13@gmail.com ) !
