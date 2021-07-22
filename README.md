@@ -7,6 +7,7 @@ I am **HFDrae** and I am a student in Computer Science in France!
 ### I am currently planning to work on :
 - the [Odin Project](https://www.theodinproject.com/) (probably in Kotlin if I don't care... *grinning*)
 - a website using Kotlin/JS... 
+- Doing a complete RogueLike
 
 
 ### I have learnt about :
