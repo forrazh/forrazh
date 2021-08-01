@@ -1,12 +1,13 @@
 ## Hi there
 I am **HFDrae** and I am a student in Computer Science in France!
+My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spider, so what ?"). 
 
 ### I am currently working on :
-- an Android weather app (Pretty original isn't it ?) in Kotlin... I will try Dagger / Hilt with this project!
+- an Android weather app (Pretty original, isn't it ?) in Kotlin... I will try out Dagger / Hilt with this project!
 
 ### I am currently planning to work on :
-- the [Odin Project](https://www.theodinproject.com/) (probably in Kotlin if I don't care... *grinning*)
-- a website using Kotlin/JS... 
+- The [Odin Project](https://www.theodinproject.com/) (probably in Kotlin if I don't care... *grinning*) <- Probably the next one up after the weather app
+- A website using Kotlin/JS... 
 - Doing a complete RogueLike
 
 
@@ -15,7 +16,7 @@ I am **HFDrae** and I am a student in Computer Science in France!
 - C -> Solid basis
 - Kotlin -> Still learning
 - SQL -> Basis
-- Vanilla JavaScript and WebDev -> Basis
+- Vanilla JavaScript, Angular, TypeScript and WebDev -> Basis
 - Android Dev (Kotlin / Java) -> Solid experience
 - Linux (Ubuntu, Debian, Fedora, MX Linux, Garuda, Arch, Pop_OS) -> Solid basis
 
@@ -23,6 +24,8 @@ I am **HFDrae** and I am a student in Computer Science in France!
 - Rust or Cpp or maybe Go
 - Kotlin/JS
 - Ruby/RoR
+- Security
+- Artificial Intelligences
 
 I am also a member of the [Camiraz](https://github.com/Camiraz) Organization (just some friends)!
 
