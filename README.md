@@ -3,7 +3,8 @@ I am **HFDrae** and I am a student in Computer Science in France!
 My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spider, so what ?"). 
 
 ### I am currently working on :
-- an Android weather app (Pretty original, isn't it ?) in Kotlin... I will try out Dagger / Hilt with this project!
+- an Android weather app (Pretty original, isn't it ?) in Kotlin...
+- creating then hosting on a Raspberry PI my own SMTP server *and try to make it secured enough D:*
 
 ### I am currently planning to work on :
 - The [Odin Project](https://www.theodinproject.com/) (probably in Kotlin if I don't care... *grinning*) <- Probably the next one up after the weather app
