@@ -3,11 +3,12 @@ I am **HFDrae** and I am a student in Computer Science in France!
 My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spider, so what ?"). 
 
 ### I am currently working on :
-- an Android weather app (Pretty original, isn't it ?) in Kotlin...
-- creating then hosting on a Raspberry PI my own SMTP server *and try to make it secured enough D:*
+- The [Odin Project](https://www.theodinproject.com/) - RoR path; Replacing JS part with Kotlin/JS
+- Learning Security with RootMe / TryHackMe
+
+- an Android weather app (Pretty original, isn't it ?) in Kotlin... *Going on hold, changing project right now... Needs Localisation, preferences screen and proper navigation to be complete*
 
 ### I am currently planning to work on :
-- The [Odin Project](https://www.theodinproject.com/) (probably in Kotlin if I don't care... *grinning*) <- Probably the next one up after the weather app
 - A website using Kotlin/JS... 
 - Doing a complete RogueLike
 
@@ -15,18 +16,24 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 ### I have learnt about :
 - Java -> Good experience
 - C -> Solid basis
-- Kotlin -> Still learning
+- Kotlin -> Still learning but starting to have good basis
 - SQL -> Basis
 - Vanilla JavaScript, Angular, TypeScript and WebDev -> Basis
 - Android Dev (Kotlin / Java) -> Solid experience
 - Linux (Ubuntu, Debian, Fedora, MX Linux, Garuda, Arch, Pop_OS) -> Solid basis
+- OOP -> Solid basis (Java/Kotlin)
+- Python -> Knowledge
+- Functionnal programming -> Basis
+
+### I just started to learn about :
+- Ruby / RoR (Odin project)
+- Kotlin/JS
+- Security
 
 ### I'd also like to learn about :
-- Rust or Cpp or maybe Go
-- Kotlin/JS
-- Ruby/RoR
-- Security
+- Rust; Cpp; maybe Go
 - Artificial Intelligences
+- Haskell
 
 I am also a member of the [Camiraz](https://github.com/Camiraz) Organization (just some friends)!
 
