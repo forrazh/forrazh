@@ -1,5 +1,5 @@
 ## Hi there
-I am **HFDrae** and I am a student in Computer Science in France!  ![](https://badgen.net/badge/Discord/Dra%23%35092?icon=discord&color=purple)
+I am **HFDrae** and I am a student in Computer Science in France!  
 My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spider, so what ?"). 
 
 
