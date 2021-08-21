@@ -75,4 +75,4 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 
 I am also a member of the [Camiraz](https://github.com/Camiraz) Organization (just some friends)!
 
-If you need to reach me, you can contact me using Discord (![](https://badgen.net/badge/Discord/Dra%23%35092?icon=discord&color=purple)) or by e-mail ( bakugo.13@gmail.com )!
+If you need to reach me, you can contact me using Discord (![](https://badgen.net/badge/Discord/Dra%23%35092?icon=discord&color=purple)) 
