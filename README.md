@@ -68,7 +68,7 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 - Artificial Intelligences
 - Haskell
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact)](https://github.com/yushi1007)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact)
 
 I am also a member of the [Camiraz](https://github.com/Camiraz) Organization (just some friends)!
 
