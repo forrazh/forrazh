@@ -2,7 +2,12 @@
 I am **HFDrae** and I am a student in Computer Science in France!  
 My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spider, so what ?"). 
 
-
+<a href="https://github-readme-stats.vercel.app/api?username=HFDrae&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HFDrae&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact&count_private=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact&count_private=true&theme=tokyonight" />
+</a>
 
 ### I am currently working on :
 - The [Odin Project](https://www.theodinproject.com/) - RoR path; Replacing JS part with Kotlin/JS
@@ -67,8 +72,6 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white); ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white); maybe ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - Artificial Intelligences
 - Haskell
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact)
 
 I am also a member of the [Camiraz](https://github.com/Camiraz) Organization (just some friends)!
 
