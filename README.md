@@ -6,7 +6,7 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HFDrae&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact&count_private=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact&count_private=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact&count_private=true&theme=tokyonight&langs_count=10" />
 </a>
 
 ### I am currently working on :
@@ -75,4 +75,4 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 
 I am also a member of the [Camiraz](https://github.com/Camiraz) Organization (just some friends)!
 
-If you need to reach me, you can contact me using Discord (![](https://badgen.net/badge/Discord/Dra%23%35092?icon=discord&color=purple)) 
+If you need to reach me, you can contact me using Discord (![Discord](https://badgen.net/badge/Discord/Dra%23%35092?icon=discord&color=purple)) 
