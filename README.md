@@ -9,7 +9,7 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact&count_private=true&theme=tokyonight&langs_count=10" />
 </a>
 
-### I am currently working on :
+## I am currently working on :
 - The [Odin Project](https://www.theodinproject.com/) - RoR path; Replacing JS part with Kotlin/JS => Currently at the chess game, feels like I'm starting to know what I am doing 👀
 - A Rogue-Like game in Kotlin (should be rushed after I finished the chess game)
 - Learning Security with RootMe / TryHackMe
@@ -21,7 +21,7 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 - ~~Doing a complete RogueLike~~ <= Just started, foundations on the [here](https://github.com/HFDrae/KRogue) (on my git)
 
 
-### I have learnt about :
+## I have learnt about :
 
 ##### Languages (Ordered by knowledge)
 
@@ -64,12 +64,12 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 
 
 
-### I just started to learn about :
+## I just started to learn about :
 - ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) / ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
  (Odin project)
 - Kotlin/JS
 
-### I'd also like to learn about :
+## I'd also like to learn about :
 - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white); ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white); maybe ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - Artificial Intelligences
 - Security
