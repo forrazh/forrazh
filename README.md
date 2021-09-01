@@ -10,14 +10,15 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 </a>
 
 ### I am currently working on :
-- The [Odin Project](https://www.theodinproject.com/) - RoR path; Replacing JS part with Kotlin/JS
+- The [Odin Project](https://www.theodinproject.com/) - RoR path; Replacing JS part with Kotlin/JS => Currently at the chess game, feels like I'm starting to know what I am doing 👀
+- A Rogue-Like game in Kotlin (should be rushed after I finished the chess game)
 - Learning Security with RootMe / TryHackMe
 
 - an Android weather app (Pretty original, isn't it ?) in Kotlin... *Going on hold, changing project right now... Needs Localisation, preferences screen and proper navigation to be complete*
 
 ### I am currently planning to work on :
 - A website using Kotlin/JS... 
-- Doing a complete RogueLike
+- ~~Doing a complete RogueLike~~ <= Just started, foundations on the [here](https://github.com/HFDrae/KRogue) (on my git)
 
 
 ### I have learnt about :
@@ -26,6 +27,7 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 - ![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -66,12 +68,12 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 - ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) / ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
  (Odin project)
 - Kotlin/JS
-- Security
 
 ### I'd also like to learn about :
 - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white); ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white); maybe ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - Artificial Intelligences
-- Haskell
+- Security
+- Haskell (and more Functionnal Programming knowledge)
 
 I am also a member of the [Camiraz](https://github.com/Camiraz) Organization (just some friends)!
 
