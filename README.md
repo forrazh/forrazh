@@ -28,16 +28,16 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 ---
 
 ##### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) :
-I use Linux a lot and have through a lot of distros, my current one is [MX Linux](https://mxlinux.org/) 'cuz I need a Debian-based environment for courses, otherwise, I'm really into what's been done with [Garuda](https://garudalinux.org/) which is Arch-based.
+I use Linux a lot (daily) and have been through a lot of distros, my current one is [MX Linux](https://mxlinux.org/) 'cuz I need a Debian-based environment for courses, otherwise, I'm really into what's been done with [Garuda](https://garudalinux.org/) which is Arch-based.
 
 ---
 
 ##### Programming styles
 I have knowledge about these styles of programming :
 - OOP -> Solid basis (Java/Kotlin)
-- Functionnal programming -> Basis
+- Functionnal programming -> Basis (Haskell / Kotlin)
 - Android Dev (Kotlin / Java) -> Solid experience
-- Web Dev -> Basis 
+- Web Dev -> Basis (JS, Rails, a bit of Java servlets)
 - Networking -> Basis (mostly Java and C, might give Go a shot)
 
 ---
