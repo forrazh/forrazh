@@ -12,9 +12,9 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 ---  
 
 ### I am currently working on :
-- A TurboHotwired portfolio !
-- Coping with courses
-
+- A RogueLike in Cpp for courses. Available [here](https://github.com/HFDrae/RoguEngine).
+- A Kt/JS portfolio. (Currently hidden)
+- Coping with courses.
 
 ---  
 
@@ -23,12 +23,30 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 
 ##### I know about these languages and framework :
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+My main languages :
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+Other technos I know about :
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+Currently learning :
+
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+- Coq (courses purposes)
+
+Currently hating :
+
+![Python](https://img.shields.io/badge/py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+(ugh, god save me from that thing)
 
 ---
 
 ##### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) :
-I use Linux a lot (daily) and have been through a lot of distros, my current one is [MX Linux](https://mxlinux.org/) 'cuz I need a Debian-based environment for courses, otherwise, I'm really into what's been done with [Garuda](https://garudalinux.org/) which is Arch-based.
+
+My main distro is currently [Garuda](https://garudalinux.org/) (arch-based). When I need something less flashy I just go on [MX Linux](https://mxlinux.org/) or [Fedora](https://getfedora.org/).
+
 
 ---
 
@@ -52,12 +70,12 @@ I really enjoy those programming tools :
 
 ### The next things I'd wanna do / try out / learn about :
 - Languages :  
-   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - Topics :
   - Artificial Intelligences
   - Security
 - Projects :
-  - RogueLike (Maybe in Rust ?)
+  - ~~RogueLike (Maybe in Rust ?)~~ => Started it in CPP
   - Home Server on my Raspberry
   - Some sort of Grammarly / DeepL / GTranslate app... Sound like a fun project
 
