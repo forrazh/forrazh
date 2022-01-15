@@ -13,7 +13,8 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 
 ### I am currently working on :
 - A RogueLike in Cpp for courses. Available [here](https://github.com/HFDrae/RoguEngine).
-- Coping with courses
+- A Kt/JS portfolio. (Currently hidden)
+- Coping with courses.
 
 ---  
 
