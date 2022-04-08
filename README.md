@@ -12,9 +12,9 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 ---  
 
 ### I am currently working on :
-- A RogueLike in Cpp for courses. Available [here](https://github.com/HFDrae/RoguEngine).
-- A Kt/JS portfolio. (Currently hidden)
-- Coping with courses.
+Maybe :
+- a portfolio (RoR ?)
+- a Rust Project ?
 
 ---  
 
@@ -29,17 +29,12 @@ My main languages :
 
 Other technos I know about :
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-Currently learning :
-
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-- Coq (courses purposes)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
 
 Currently hating :
 
-![Python](https://img.shields.io/badge/py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-(ugh, god save me from that thing)
+![Python](https://img.shields.io/badge/py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+(ugh, god save me from those things)
 
 ---
 
@@ -52,11 +47,13 @@ My main distro is currently [Garuda](https://garudalinux.org/) (arch-based). Whe
 
 ##### Programming styles
 I have knowledge about these styles of programming :
-- OOP -> Solid basis (Java/Kotlin)
-- Functionnal programming -> Basis (Haskell / Kotlin)
-- Android Dev (Kotlin / Java) -> Solid experience
-- Web Dev -> Basis (JS, Rails, a bit of Java servlets)
-- Networking -> Basis (mostly Java and C, might give Go a shot)
+- OOP
+- Functional 
+- Networking 
+- Multi-threaded 
+- Android (Kotlin, Java, Flutter)
+- Web Front (JS, Kotlin/JS, Angular, React)
+- Web Back (Node.js, RoR)
 
 ---
 
@@ -70,14 +67,17 @@ I really enjoy those programming tools :
 
 ### The next things I'd wanna do / try out / learn about :
 - Languages :  
-    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 - Topics :
   - Artificial Intelligences
   - Security
+  - Dev-Ops
+  - Docker/ K8
 - Projects :
-  - ~~RogueLike (Maybe in Rust ?)~~ => Started it in CPP
   - Home Server on my Raspberry
   - Some sort of Grammarly / DeepL / GTranslate app... Sound like a fun project
+  - A Portfolio
+  
 
 ## Miscellaneous
 
