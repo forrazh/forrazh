@@ -12,9 +12,13 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 ---  
 
 ### I am currently working on :
-Maybe :
-- a portfolio (RoR ?)
-- a Rust Project ?
+
+Learning  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+#### Next project
+
+My next project might be a C++ Discord bot or a Rust related project (depending on the internship I can manage to find)
 
 ---  
 
@@ -25,11 +29,11 @@ Maybe :
 
 My main languages :
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 Other technos I know about :
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
 
 Currently hating :
 
@@ -51,6 +55,7 @@ I have knowledge about these styles of programming :
 - Functional 
 - Networking 
 - Multi-threaded 
+- IoT / Embedded Systems
 - Android (Kotlin, Java, Flutter)
 - Web Front (JS, Kotlin/JS, Angular, React)
 - Web Back (Node.js, RoR)
@@ -66,17 +71,22 @@ I really enjoy those programming tools :
 ---  
 
 ### The next things I'd wanna do / try out / learn about :
-- Languages :  
-    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-- Topics :
+* Languages :  
+    ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
+* Topics :
   - Artificial Intelligences
   - Security
   - Dev-Ops
   - Docker/ K8
-- Projects :
+  - Arduino
+* Projects :
   - Home Server on my Raspberry
+    + You know, things like :
+      * Hosting a website
+      * Hosting personnal emails
+      * Maybe more IoT related things
   - Some sort of Grammarly / DeepL / GTranslate app... Sound like a fun project
-  - A Portfolio
+  - A Portfolio (maybe one day D:)
   
 
 ## Miscellaneous
@@ -85,8 +95,8 @@ Native French, pretty good level in English (according to others, feel like I st
 
 --- 
 
-Here's my anime list if you are after my weeb tastes :  
-[![MAL](https://img.shields.io/badge/Draeel-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Draeel)
+Here's my anilist if you are after my weeb tastes :  
+https://anilist.co/user/Draeel/
 > But well, you don't need to check it to know that [`Baki`](https://myanimelist.net/anime/34443) is dope, [`Devilman: Crybaby`](https://myanimelist.net/anime/35120/) is a masterpiece and that [`Btooom!`](https://myanimelist.net/manga/20593) should have got a second season. :v  
 
 ---
