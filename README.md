@@ -1,5 +1,6 @@
 # Welcome here !
-I am **HFDrae** and I am a student in Computer Science in France!  
+I am **HFDrae** and I just started a Computer Science master's degree specialized in IoT (so really focused on embedded systems) in France! 
+
 My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spider, so what ?"). 
 
 <a href="https://github-readme-stats.vercel.app/api?username=HFDrae&show_icons=true&theme=tokyonight">
@@ -13,13 +14,11 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 
 ### I am currently working on :
 
-Learning  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
 #### Next project
 
-My next project might be a C++ Discord bot or a Rust related project (depending on the internship I can manage to find)
-
+I'm working more or less on the following projects :
+- A Rust discord bot (See RustyDraChan)
+- Course projects 
 ---  
 
 
@@ -29,23 +28,22 @@ My next project might be a C++ Discord bot or a Rust related project (depending 
 
 My main languages :
 
-![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 
 Other technos I know about :
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=plastic&logo=LaTeX&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=plastic&logo=haskell&logoColor=white) 
 
 Currently hating :
 
-![Python](https://img.shields.io/badge/py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Python](https://img.shields.io/badge/py-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) 
 (ugh, god save me from those things)
 
 ---
 
-##### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) :
+##### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) :
 
-My main distro is currently [Garuda](https://garudalinux.org/) (arch-based). When I need something less flashy I just go on [MX Linux](https://mxlinux.org/) or [Fedora](https://getfedora.org/).
-
+My main distro is currently [Pop!_OS](https://pop.system76.com/). I also wandered a lot on distros like [Garuda](https://garudalinux.org/) (Arch-based), [MX Linux](https://mxlinux.org/) and [Fedora](https://getfedora.org/).
 
 ---
 
@@ -58,7 +56,7 @@ I have knowledge about these styles of programming :
 - IoT / Embedded Systems
 - Android (Kotlin, Java, Flutter)
 - Web Front (JS, Kotlin/JS, Angular, React)
-- Web Back (Node.js, RoR)
+- Web Back (Node.js, RoR, Spring)
 
 ---
 
@@ -66,13 +64,13 @@ I have knowledge about these styles of programming :
 
 I really enjoy those programming tools :  
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
 ---  
 
 ### The next things I'd wanna do / try out / learn about :
 * Languages :  
-    ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
+    ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=plastic&logo=elixir&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=plastic&logo=erlang&logoColor=white)
 * Topics :
   - Artificial Intelligences
   - Security
@@ -83,10 +81,9 @@ I really enjoy those programming tools :
   - Home Server on my Raspberry
     + You know, things like :
       * Hosting a website
-      * Hosting personnal emails
       * Maybe more IoT related things
   - Some sort of Grammarly / DeepL / GTranslate app... Sound like a fun project
-  - A Portfolio (maybe one day D:)
+  - A Portfolio or something like that (maybe one day D:)
   
 
 ## Miscellaneous
