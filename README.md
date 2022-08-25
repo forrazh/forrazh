@@ -24,7 +24,7 @@ I'm working more or less on the following projects :
 
 ### I have learnt about :
 
-##### I know about these languages and framework :
+##### I know about these languages and frameworks :
 
 My main languages :
 
@@ -48,7 +48,7 @@ My main distro is currently [Pop!_OS](https://pop.system76.com/). I also wandere
 ---
 
 ##### Programming styles
-I have knowledge about these styles of programming :
+I know these styles of programming :
 - OOP
 - Functional 
 - Networking 
@@ -68,20 +68,20 @@ I really enjoy those programming tools :
 
 ---  
 
-### The next things I'd wanna do / try out / learn about :
+### The next things I'd wanna do/try out / learn about :
 * Languages :  
     ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=plastic&logo=elixir&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=plastic&logo=erlang&logoColor=white)
 * Topics :
   - Artificial Intelligences
   - Security
   - Dev-Ops
-  - Docker/ K8
+  - Docker/K8
   - Arduino
 * Projects :
   - Home Server on my Raspberry
     + You know, things like :
       * Hosting a website
-      * Maybe more IoT related things
+      * Maybe more IoT-related things
   - Some sort of Grammarly / DeepL / GTranslate app... Sound like a fun project
   - A Portfolio or something like that (maybe one day D:)
   
