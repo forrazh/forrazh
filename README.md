@@ -1,13 +1,13 @@
 # Welcome here !
-I am **HFDrae** and I just started a Computer Science master's degree specialized in IoT (so really focused on embedded systems) in France! 
+I am **AvailableAmphibian** and I just started a Computer Science master's degree specialized in IoT (so really focused on embedded systems) in France! I'm also an intern at a French Cybersecurity commpany. 
 
 My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spider, so what ?"). 
 
-<a href="https://github-readme-stats.vercel.app/api?username=HFDrae&show_icons=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HFDrae&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=AvailableAmphibian&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AvailableAmphibian&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact&count_private=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HFDrae&layout=compact&count_private=true&theme=tokyonight&langs_count=10" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AvailableAmphibian&layout=compact&count_private=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvailableAmphibian&layout=compact&count_private=true&theme=tokyonight&langs_count=10" />
 </a>
 
 ---  
@@ -17,8 +17,10 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 #### Next project
 
 I'm working more or less on the following projects :
-- A Rust discord bot (See RustyDraChan)
+- A Rust discord bot
 - Course projects 
+
+
 ---  
 
 
@@ -26,13 +28,12 @@ I'm working more or less on the following projects :
 
 ##### I know about these languages and frameworks :
 
-My main languages :
+As of today (September 2023), I am a Rust developper. In class I also get to play with C, C++, VHDL and Coq (in addition to Rust).
 
-![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 
-Other technos I know about :
+Some technos I know about :
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=plastic&logo=LaTeX&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=plastic&logo=haskell&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=plastic&logo=LaTeX&logoColor=white) ![TypeScript](https://img.shields.io/badge/ts-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=plastic&logo=haskell&logoColor=white) ![Kotlin](https://img.shields.io/badge/kt-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 
 Currently hating :
 
@@ -43,7 +44,7 @@ Currently hating :
 
 ##### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) :
 
-My main distro is currently [Pop!_OS](https://pop.system76.com/). I also wandered a lot on distros like [Garuda](https://garudalinux.org/) (Arch-based), [MX Linux](https://mxlinux.org/) and [Fedora](https://getfedora.org/).
+My main distro is currently [EndeavourOS](https://endeavouros.com/). I also wandered a lot on distros like [Garuda](https://garudalinux.org/) (Arch-based), [Pop!_OS](https://pop.system76.com/), [MX Linux](https://mxlinux.org/) and [Fedora](https://getfedora.org/).
 
 ---
 
@@ -72,7 +73,6 @@ I really enjoy those programming tools :
 * Languages :  
     ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=plastic&logo=elixir&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=plastic&logo=erlang&logoColor=white)
 * Topics :
-  - Artificial Intelligences
   - Security
   - Dev-Ops
   - Docker/K8
@@ -82,7 +82,6 @@ I really enjoy those programming tools :
     + You know, things like :
       * Hosting a website
       * Maybe more IoT-related things
-  - Some sort of Grammarly / DeepL / GTranslate app... Sound like a fun project
   - A Portfolio or something like that (maybe one day D:)
   
 
