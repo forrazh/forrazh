@@ -19,7 +19,7 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 I'm working more or less on the following projects :
 - A Rust discord bot
 - Course projects 
-- 
+
 
 ---  
 
