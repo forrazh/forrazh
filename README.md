@@ -17,9 +17,9 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 #### Next project
 
 I'm working more or less on the following projects :
-- A Rust discord bot
-- Course projects 
-
+- Being accepted for a thesis
+- Finishing my master thesis
+- Make my internship thesis (yes, we have 2 thesis in my master's degree 😵‍💫)
 
 ---  
 
@@ -55,9 +55,6 @@ I know these styles of programming :
 - Networking 
 - Multi-threaded 
 - IoT / Embedded Systems
-- Android (Kotlin, Java, Flutter)
-- Web Front (JS, Kotlin/JS, Angular, React)
-- Web Back (Node.js, RoR, Spring)
 
 ---
 
@@ -70,14 +67,12 @@ I really enjoy those programming tools :
 ---  
 
 ### The next things I'd wanna do/try out / learn about :
-* Languages :  
-    ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=plastic&logo=elixir&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=plastic&logo=erlang&logoColor=white)
 * Topics :
-  - Security
-  - Dev-Ops
-  - Docker/K8
   - Arduino
+  - DSP
+  - Real time
 * Projects :
+  - Play with some DSPs or things like that ; I'd love to make an ANC headset
   - Home Server on my Raspberry
     + You know, things like :
       * Hosting a website
