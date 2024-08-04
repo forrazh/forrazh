@@ -1,5 +1,5 @@
 # Welcome here !
-I am **AvailableAmphibian** and I just started a Computer Science master's degree specialized in IoT (so really focused on embedded systems) in France! I'm also an intern at a French Cybersecurity commpany. 
+I am **AvailableAmphibian** and I am about to start a Computer Science PhD. It is oriented towards Formal Methods for IoT. 
 
 My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spider, so what ?"). 
 
@@ -17,9 +17,7 @@ My profile picture is from `「蜘蛛ですがなにか？」` (aka: "I'm a spid
 #### Next project
 
 I'm working more or less on the following projects :
-- Being accepted for a thesis
-- Finishing my master thesis
-- Make my internship thesis (yes, we have 2 thesis in my master's degree 😵‍💫)
+- Nothing on going
 
 ---  
 
